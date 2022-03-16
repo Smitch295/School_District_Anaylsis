@@ -46,6 +46,7 @@ Prior to the changes in the data -
 
 As you can see theres is no difference between the two. 
 
+
 * Scores by school size:
 Below is an image of school summary based off school size prior to changes in the data.
 ![Screen Shot 2022-03-16 at 1 35 19 PM](https://user-images.githubusercontent.com/93875400/158652376-8ce1059b-8df6-45e7-a31b-15863390cbdd.png)
@@ -54,6 +55,7 @@ Below is an of school summmary based off school size after changes in the data.
 ![Screen Shot 2022-03-16 at 1 38 02 PM](https://user-images.githubusercontent.com/93875400/158652987-660e7b7d-8740-455b-af70-6ed4a4f2adba.png)
 
 As you can see theres is no difference between the two. 
+
 
 * Scores by school type:
 Below is an image of the school summary by school type prior to changes in the data.
