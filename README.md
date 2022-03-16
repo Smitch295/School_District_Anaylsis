@@ -29,18 +29,20 @@ Thomas High School which was in the top five (#2) performing schools with a over
 
 * Math and reading scores by grade:
 Below is an image of math and reading scores respectively after changes in the data.
-![Screen Shot 2022-03-16 at 12 28 17 PM](https://user-images.githubusercontent.com/93875400/158639259-02b3f0c2-4587-435d-b461-213663fb5588.png)
-![Screen Shot 2022-03-16 at 12 29 23 PM](https://user-images.githubusercontent.com/93875400/158639467-a35b0356-5e11-41a7-805d-7f59fe3500c7.png)
+![Screen Shot 2022-03-16 at 1 27 12 PM](https://user-images.githubusercontent.com/93875400/158650977-fcf79bed-6fa3-47b6-8536-e2489cae9fd8.png)
+![Screen Shot 2022-03-16 at 1 27 23 PM](https://user-images.githubusercontent.com/93875400/158651001-8d3510f3-e9c6-4a22-ba7e-99ddb01c2405.png)
 
 Below is an image of math and reading scores respectively prior to changes in the data.
+![Screen Shot 2022-03-16 at 1 30 23 PM](https://user-images.githubusercontent.com/93875400/158651475-7924d7a1-f7f3-4e0e-ad85-9c7cdac04a93.png)
 
-Scores by school size
+* Scores by school size
 * Scores by school type:
 Below is an image of the school summary by school prior to changes in the data.
 ![Screen Shot 2022-03-16 at 1 02 58 PM](https://user-images.githubusercontent.com/93875400/158646548-ca695dea-91b7-4bbf-8f01-13da23da0dd5.png)
 
 Below is an image of the school summary by school type after changes in the data.
 ![Screen Shot 2022-03-16 at 12 59 40 PM](https://user-images.githubusercontent.com/93875400/158645924-6f13e974-3c43-4a67-a700-e3b5ef3a9e1e.png)
+![Screen Shot 2022-03-16 at 1 30 41 PM](https://user-images.githubusercontent.com/93875400/158651564-51ec0588-e130-4ee3-8ccb-5bd6edae3ff5.png)
 
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
