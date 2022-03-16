@@ -28,12 +28,14 @@ Thomas High School which was in the top five (#2) performing schools with a over
 ## How does replacing the ninth-grade scores affect the following:
 
 * Math and reading scores by grade:
-* 
+
 Below is an image of math and reading scores respectively after changes in the data.
+
 ![Screen Shot 2022-03-16 at 1 27 12 PM](https://user-images.githubusercontent.com/93875400/158650977-fcf79bed-6fa3-47b6-8536-e2489cae9fd8.png)
 ![Screen Shot 2022-03-16 at 1 27 23 PM](https://user-images.githubusercontent.com/93875400/158651001-8d3510f3-e9c6-4a22-ba7e-99ddb01c2405.png)
 
 Below is an image of math and reading scores respectively prior to changes in the data.
+
 ![Screen Shot 2022-03-16 at 1 32 15 PM](https://user-images.githubusercontent.com/93875400/158651827-4659a341-7594-4353-8e09-fd861b85bebd.png)
 ![Screen Shot 2022-03-16 at 1 32 31 PM](https://user-images.githubusercontent.com/93875400/158651871-96fbafaa-cd65-46fe-8457-2eb7257605b1.png)
 
