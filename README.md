@@ -37,11 +37,14 @@ Below is an image of math and reading scores respectively prior to changes in th
 ![Screen Shot 2022-03-16 at 1 32 31 PM](https://user-images.githubusercontent.com/93875400/158651871-96fbafaa-cd65-46fe-8457-2eb7257605b1.png)
 
 * Scores by school spending:
-After changes to the data:
+
+After changes to the data -
 ![Screen Shot 2022-03-16 at 1 43 45 PM](https://user-images.githubusercontent.com/93875400/158653943-3eeae8cc-ce5a-4d44-84f8-0679608c8ddc.png)
 
-Prior to the changes in the data:
+Prior to the changes in the data -
 ![Screen Shot 2022-03-16 at 1 47 43 PM](https://user-images.githubusercontent.com/93875400/158654716-0c329106-e9a9-4d9b-a286-be5debbde436.png)
+
+As you can see theres is no difference between the two. 
 
 * Scores by school size:
 Below is an image of school summary based off school size prior to changes in the data.
