@@ -33,16 +33,32 @@ Below is an image of math and reading scores respectively after changes in the d
 ![Screen Shot 2022-03-16 at 1 27 23 PM](https://user-images.githubusercontent.com/93875400/158651001-8d3510f3-e9c6-4a22-ba7e-99ddb01c2405.png)
 
 Below is an image of math and reading scores respectively prior to changes in the data.
-![Screen Shot 2022-03-16 at 1 30 23 PM](https://user-images.githubusercontent.com/93875400/158651475-7924d7a1-f7f3-4e0e-ad85-9c7cdac04a93.png)
+![Screen Shot 2022-03-16 at 1 32 15 PM](https://user-images.githubusercontent.com/93875400/158651827-4659a341-7594-4353-8e09-fd861b85bebd.png)
+![Screen Shot 2022-03-16 at 1 32 31 PM](https://user-images.githubusercontent.com/93875400/158651871-96fbafaa-cd65-46fe-8457-2eb7257605b1.png)
 
-* Scores by school size
+* Scores by school spending:
+After changes to the data:
+![Screen Shot 2022-03-16 at 1 43 45 PM](https://user-images.githubusercontent.com/93875400/158653943-3eeae8cc-ce5a-4d44-84f8-0679608c8ddc.png)
+
+Prior to the changes in the data:
+![Screen Shot 2022-03-16 at 1 47 43 PM](https://user-images.githubusercontent.com/93875400/158654716-0c329106-e9a9-4d9b-a286-be5debbde436.png)
+
+* Scores by school size:
+Below is an image of school summary based off school size prior to changes in the data.
+![Screen Shot 2022-03-16 at 1 35 19 PM](https://user-images.githubusercontent.com/93875400/158652376-8ce1059b-8df6-45e7-a31b-15863390cbdd.png)
+
+Below is an of school summmary based off school size after changes in the data.
+![Screen Shot 2022-03-16 at 1 38 02 PM](https://user-images.githubusercontent.com/93875400/158652987-660e7b7d-8740-455b-af70-6ed4a4f2adba.png)
+
+As you can see theres is no difference between the two. 
+
 * Scores by school type:
-Below is an image of the school summary by school prior to changes in the data.
+Below is an image of the school summary by school type prior to changes in the data.
 ![Screen Shot 2022-03-16 at 1 02 58 PM](https://user-images.githubusercontent.com/93875400/158646548-ca695dea-91b7-4bbf-8f01-13da23da0dd5.png)
 
 Below is an image of the school summary by school type after changes in the data.
 ![Screen Shot 2022-03-16 at 12 59 40 PM](https://user-images.githubusercontent.com/93875400/158645924-6f13e974-3c43-4a67-a700-e3b5ef3a9e1e.png)
-![Screen Shot 2022-03-16 at 1 30 41 PM](https://user-images.githubusercontent.com/93875400/158651564-51ec0588-e130-4ee3-8ccb-5bd6edae3ff5.png)
 
+As you can see theres is no difference between the two. 
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
